@@ -1,4 +1,4 @@
-# Tugas Teori Graf & Teori Optimasi
+# UAS Teori Graf & Teori Optimasi
 ## Judul : Pewarnaan Graf pada Penjadwalan Shift Kerja di PT X
 
 ## Topik : Pewarnaan Graf (Teori Graf)
